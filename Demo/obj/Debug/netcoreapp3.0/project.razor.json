@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\dan.drews\\Source\\Repos\\webapidemo\\webapidemo.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  }
+}

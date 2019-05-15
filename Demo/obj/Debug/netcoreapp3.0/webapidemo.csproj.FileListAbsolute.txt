@@ -1,0 +1,17 @@
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.exe
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.deps.json
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.runtimeconfig.json
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.runtimeconfig.dev.json
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.dll
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\webapidemo.pdb
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\dan.drews\Source\Repos\webapidemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.csprojAssemblyReference.cache
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.csproj.CoreCompileInputs.cache
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.AssemblyInfoInputs.cache
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.AssemblyInfo.cs
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.RazorTargetAssemblyInfo.cache
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.csproj.CopyComplete
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.dll
+C:\Users\dan.drews\Source\Repos\webapidemo\obj\Debug\netcoreapp3.0\webapidemo.pdb
