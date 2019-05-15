@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dan.drews\\Source\\Repos\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj": {}
+    "C:\\Users\\dan.drews\\Source\\Repos\\WebAPiDemoCheckin\\2019-05-15-advanced-.net\\Demo\\WebApiDemo\\WebApiDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dan.drews\\Source\\Repos\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj": {
+    "C:\\Users\\dan.drews\\Source\\Repos\\WebAPiDemoCheckin\\2019-05-15-advanced-.net\\Demo\\WebApiDemo\\WebApiDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dan.drews\\Source\\Repos\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
+        "projectUniqueName": "C:\\Users\\dan.drews\\Source\\Repos\\WebAPiDemoCheckin\\2019-05-15-advanced-.net\\Demo\\WebApiDemo\\WebApiDemo.csproj",
         "projectName": "WebApiDemo",
-        "projectPath": "C:\\Users\\dan.drews\\Source\\Repos\\WebApiDemo\\WebApiDemo\\WebApiDemo.csproj",
+        "projectPath": "C:\\Users\\dan.drews\\Source\\Repos\\WebAPiDemoCheckin\\2019-05-15-advanced-.net\\Demo\\WebApiDemo\\WebApiDemo.csproj",
         "packagesPath": "C:\\Users\\dan.drews\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dan.drews\\Source\\Repos\\WebApiDemo\\WebApiDemo\\obj\\",
+        "outputPath": "C:\\Users\\dan.drews\\Source\\Repos\\WebAPiDemoCheckin\\2019-05-15-advanced-.net\\Demo\\WebApiDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
