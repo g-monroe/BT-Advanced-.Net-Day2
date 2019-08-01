@@ -1,0 +1,25 @@
+{
+  "universe": [
+    {
+      "id": 1,
+      "universeName": "test",
+      "parentCompany": "Marvel"
+    }
+  ],
+  "superhero": [
+    {
+      "id": 3,
+      "superheroName": "Stri2ng",
+      "secretIdentity": "string",
+      "ageAtOrigin": 5,
+      "yearOfAppearance": 2019,
+      "alien": true,
+      "originStory": null,
+      "universeId": 1,
+      "abilities": [
+        "string",
+        "string"
+      ]
+    }
+  ]
+}
